@@ -1,0 +1,58 @@
+.main-content {
+    height: 100vh;
+    width: 100vw; 
+    background-image: url("https://www.spacex.com/static/images/backgrounds-new/Desktop_StarL19_DSC_1291.webp");
+    background-size: 100vw, 100vh;
+    background-repeat: no-repeat;
+}
+
+.nav-bar {
+    display: flex;
+    padding: 2em;
+}
+
+.nav-option {
+    color: white;
+    padding: .5rem;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+
+.nav-option a::after {
+    color: white;
+}
+
+.nav-option a:link {
+    color: white;
+    text-decoration: none;
+}
+
+.fill-white {
+    color: white;
+    background-color: white;
+    fill: white;
+}
+
+.logo {
+    width: 15vw;
+}
+
+.nav-select {
+    display: flex;
+}
+
+.sub-title {
+    color: white;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.title {
+    color: white;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#right-side {
+    margin-left: auto;
+}
+
+
